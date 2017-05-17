@@ -61,7 +61,7 @@ hr {
 }
 
 .navbar-inverse .navbar-nav > .active > a {
-  background-color: #ff7878
+  background-color: #40E0D0
 }
 
 .navbar-inverse .navbar-brand {
@@ -160,7 +160,7 @@ hr {
 }
 
 #r {
-  background: #ff7878;
+  background: #40E0D0;
   padding-top: 70px;
   padding-bottom: 70px;
 }
@@ -187,5 +187,5 @@ hr {
 }
 
 #f i:hover {
-  color: #ff7878
+  color: #40E0D0
 }
